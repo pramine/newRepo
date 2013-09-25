@@ -1,0 +1,4 @@
+newRepo
+=======
+
+GIT Demo project
